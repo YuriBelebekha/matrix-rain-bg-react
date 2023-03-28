@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/matrix-rain-bg-react/static/css/main.efea6e27.css",
-    "main.js": "/matrix-rain-bg-react/static/js/main.683f4baf.js",
+    "main.css": "/matrix-rain-bg-react/static/css/main.985f9a56.css",
+    "main.js": "/matrix-rain-bg-react/static/js/main.e84ac97f.js",
     "static/media/matrixFont.ttf": "/matrix-rain-bg-react/static/media/matrixFont.77b36b5eb15b0d99bd9a.ttf",
     "index.html": "/matrix-rain-bg-react/index.html",
-    "main.efea6e27.css.map": "/matrix-rain-bg-react/static/css/main.efea6e27.css.map",
-    "main.683f4baf.js.map": "/matrix-rain-bg-react/static/js/main.683f4baf.js.map"
+    "main.985f9a56.css.map": "/matrix-rain-bg-react/static/css/main.985f9a56.css.map",
+    "main.e84ac97f.js.map": "/matrix-rain-bg-react/static/js/main.e84ac97f.js.map"
   },
   "entrypoints": [
-    "static/css/main.efea6e27.css",
-    "static/js/main.683f4baf.js"
+    "static/css/main.985f9a56.css",
+    "static/js/main.e84ac97f.js"
   ]
 }
