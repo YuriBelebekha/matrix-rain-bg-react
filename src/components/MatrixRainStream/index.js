@@ -1,0 +1,1 @@
+export { MatrixRainStream } from './MatrixRainStream';
